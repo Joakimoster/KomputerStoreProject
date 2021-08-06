@@ -1,0 +1,42 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+}
+
+#myRow {
+    margin-top: 50px;
+}
+
+#specs {
+    font-size: 8pt;
+}
+
+#laptopCard {
+    margin-top: 45px;
+    width: 50rem;
+    font-weight: 700;
+    margin: 20px 10px;
+}
+
+#image {
+    width: 30%;
+}
+
+.card {
+    width: 15rem;
+    margin: 20px 10px;
+    border-radius: 15px;
+}
+
+.col-sm-3 {
+    background-color: #dbe5e6;
+    font-weight: 700;
+}
+
+.card-header {
+    text-align: center;
+}
+
+.card-body {
+    box-shadow: 0 0 20px 7px rgba(0, 0, 0, 0.1);
+    font-size: 15px;
+}
